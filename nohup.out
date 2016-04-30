@@ -1,0 +1,13 @@
+[I 18:37:22.607 NotebookApp] Serving notebooks from local directory: /Users/sweaterr/projects/tfexp
+[I 18:37:22.607 NotebookApp] 0 active kernels 
+[I 18:37:22.607 NotebookApp] The IPython Notebook is running at: http://localhost:8888/
+[I 18:37:22.607 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 18:37:23.297 NotebookApp] 404 GET /api/kernels/21099640-9d0d-4a69-835a-f4fed1ed96d9/channels?session_id=9660F180479547A086BC3D874CFAF51F (127.0.0.1): Kernel does not exist: 21099640-9d0d-4a69-835a-f4fed1ed96d9
+[W 18:37:23.305 NotebookApp] 404 GET /api/kernels/21099640-9d0d-4a69-835a-f4fed1ed96d9/channels?session_id=9660F180479547A086BC3D874CFAF51F (127.0.0.1) 15.73ms referer=None
+[I 18:37:54.240 NotebookApp] Kernel started: fc3cee1a-fdc8-4a5d-b89b-8ceba3140828
+[I 18:39:54.214 NotebookApp] Saving file at /src/firstimpression/gd.ipynb
+[I 18:41:54.206 NotebookApp] Saving file at /src/firstimpression/gd.ipynb
+[I 20:45:54.106 NotebookApp] Saving file at /src/firstimpression/gd.ipynb
+[I 20:53:54.100 NotebookApp] Saving file at /src/firstimpression/gd.ipynb
+[I 20:57:54.091 NotebookApp] Saving file at /src/firstimpression/gd.ipynb
+[I 20:59:54.094 NotebookApp] Saving file at /src/firstimpression/gd.ipynb
